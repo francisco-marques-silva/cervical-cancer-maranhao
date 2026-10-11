@@ -6,9 +6,13 @@ authors:
   - family-names: "Vieira"
     given-names: "Mariana Oliveira Dumont"
     affiliation: "Universidade Estadual do Maranhão"
-  # Add the remaining co-authors here (given-names, family-names, ORCID)
+  - family-names: "Marques"
+    given-names: "Francisco"
   - family-names: "Oliveira"
     given-names: "Romário de Sousa"
+    affiliation: "Universidade Estadual do Maranhão"
+  - family-names: "Leite"
+    given-names: "Illoma Rossany Lima"
     affiliation: "Universidade Estadual do Maranhão"
 repository-code: "https://github.com/francisco-marques-silva/cervical-cancer-maranhao"
 license: MIT
