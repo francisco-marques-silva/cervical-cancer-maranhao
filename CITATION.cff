@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Cervical cancer care in Maranhão, Brazil: code and data"
+type: software
+authors:
+  - family-names: "Vieira"
+    given-names: "Mariana Oliveira Dumont"
+    affiliation: "Universidade Estadual do Maranhão"
+  # Add the remaining co-authors here (given-names, family-names, ORCID)
+  - family-names: "Oliveira"
+    given-names: "Romário de Sousa"
+    affiliation: "Universidade Estadual do Maranhão"
+repository-code: "https://github.com/francisco-marques-silva/cervical-cancer-maranhao"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-11"
+keywords:
+  - cervical cancer
+  - health services accessibility
+  - time-to-treatment
+  - spatial epidemiology
+  - Brazil
+  - DATASUS
