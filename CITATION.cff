@@ -17,6 +17,7 @@ authors:
     affiliation: "Universidade Estadual do Maranhão"
 repository-code: "https://github.com/francisco-marques-silva/cervical-cancer-maranhao"
 license: MIT
+doi: "10.5281/zenodo.23306601"
 version: "1.0.0"
 date-released: "2026-10-11"
 keywords:

@@ -1,5 +1,7 @@
 # Cervical cancer care in Maranhão, Brazil: code and data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23306601.svg)](https://doi.org/10.5281/zenodo.23306601)
+
 This repository contains the data and R code that reproduce all analyses of two studies of cervical cancer (ICD-10 C53) in women living in Maranhão, Brazil. Both studies use public data from the Brazilian Unified Health System (SUS):
 
 1. **Distance to oncology hubs and access to cervical cancer care in Maranhão, Brazil: a population-based study combining individual and ecological analyses, 2013–2024.** It asks whether the distance from the municipality of residence to the nearest oncology hub is associated with late-stage disease, treatment delay (>60 days) and lack of registered treatment, at the individual level, and with case registration and mortality, at the municipal level.
@@ -85,4 +87,8 @@ All sources are public and de-identified. The files in `data/` contain only the 
 
 ## Citation
 
-If you use this code or data, please cite the archived version of this repository (Zenodo DOI to be added) and the corresponding articles. Citation metadata are in `CITATION.cff`.
+If you use this code or data, please cite the archived version:
+
+> Vieira MOD, Marques Silva Neto F, Oliveira RS, Leite IRL. Cervical cancer care in Maranhão, Brazil: code and data (v1.0.0) [software]. Zenodo; 2026. https://doi.org/10.5281/zenodo.23306602
+
+The DOI above refers to version 1.0.0, the version used in the articles. The concept DOI [10.5281/zenodo.23306601](https://doi.org/10.5281/zenodo.23306601) always resolves to the latest version. Citation metadata are in `CITATION.cff`.
